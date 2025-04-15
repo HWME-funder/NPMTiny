@@ -1,2 +1,2 @@
 # NPMTiny
-Comming soon
+Coming soon
